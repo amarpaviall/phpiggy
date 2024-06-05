@@ -1,0 +1,29 @@
+C:\Windows\System32\drivers\etc
+
+
+hosts file 
+
+open as run as admin
+
+
+virtual host : https://www.hostinger.com/tutorials/how-to-edit-hosts-file
+
+https://www.hostinger.com/tutorials/how-to-edit-hosts-file#How_to_Edit_Hosts_File_in_Windows_10
+
+
+------------for own framework, use below tools----
+router
+validator
+database
+template engine
+container
+
+
+https://www.php-fig.org/
+
+
+https://json-ld.org/playground/
+
+composer init
+
+composer dump-autoload
